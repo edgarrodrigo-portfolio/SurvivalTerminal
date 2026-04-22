@@ -2,7 +2,7 @@
 Survival Terminal
 
 # 2. Tipus de microvideojoc escollit
-Joc de supervivència / gestió de recursos (textual)
+Joc de supervivència i/o gestió de recursos (textual)
 
 # 3. Objectiu del joc
 L’objectiu del joc és sobreviure el màxim nombre de dies possibles gestionant recursos com menjar, energia i salut.
